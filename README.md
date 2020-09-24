@@ -1,8 +1,8 @@
 # Digital-Crafts
 
-### Hannelore's ReadMe
+## Hannelore's ReadMe
 
-## Who the **heck** *am* I ?
+### Who the heck *am* I ?
 
 ##### I am 25 year old human being learning to study code with the hope of being able to learn, grow, and create. 
 
@@ -18,4 +18,4 @@
 2. sleep
 3. food
 
-#Thanks for stopping by!
+## Thanks for stopping by!
